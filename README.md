@@ -22,6 +22,7 @@ Esto generará un conflicto en archivo.txt
       git merge rama-feature
 
 Resolvemos el conflicto usando la estrategia "ours"
+
       git checkout --ours archivo.txt
       git add archivo.txt
       git commit -m "Resuelve conflicto usando nuestra versión en archivo.txt"
