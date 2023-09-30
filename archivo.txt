@@ -1,1 +1,1 @@
-Nuevo contenido en archivo.txt en la rama principal
+Contenido modificado manualmente
